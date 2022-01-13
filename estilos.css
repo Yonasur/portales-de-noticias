@@ -1,0 +1,88 @@
+.card {
+  margin: 22%;
+  width: 60%;
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+.dibujo {
+  height: 500px;
+
+  border-style: outset;
+  border-color: rgba(55, 166, 194, 0.767);
+  border-width: 5px;
+}
+
+.card-text {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 50px;
+  font-style: oblique;
+  font-weight: bolder;
+  background-color: black;
+  color: white;
+  padding: 50px;
+}
+
+.dropdown {
+  padding: 15px 15px;
+  background-color: rgba(55, 166, 194, 0.767);
+}
+
+.card-img-top {
+  height: 100px;
+}
+.tarjeta {
+  padding: 12% 2%;
+  border: solid;
+  border-style: outset;
+  height: 240px;
+  width: 90%;
+  margin-left: 80px;
+  border-color: rgb(253, 41, 4);
+  border-radius: 40px;
+}
+.col {
+  margin-top: 0%;
+  margin-left: -2%;
+  margin-bottom: 2%;
+  margin-right: 0.5%;
+}
+
+.portal {
+  text-align: center;
+  font-family: sans-serif;
+  font-style: italic;
+  font-size: 50px;
+  background-color: midnightblue;
+  color: aliceblue;
+}
+
+hr {
+  border: solid;
+  padding: 5px;
+}
+
+.pp {
+  text-align: center;
+  background-color: rgb(116, 116, 139);
+  font-family: serif;
+}
+
+.p {
+  color: azure;
+  padding-top: 13px;
+}
+
+.nom {
+  background-color: black;
+  color: ghostwhite;
+  text-align: start;
+  padding-left: 20px;
+  padding-bottom: 8px;
+  font-family: serif;
+  padding-top: 8px;
+}
+
+body {
+  overflow-x: hidden;
+}
